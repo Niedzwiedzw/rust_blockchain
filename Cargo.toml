@@ -1,0 +1,8 @@
+[package]
+name = "rust-blockchain"
+version = "0.1.0"
+authors = ["Wojtek Brożek <wojciech.brozek@nokia.com>"]
+edition = "2018"
+
+[dependencies]
+sha2 = "0.8.0"
